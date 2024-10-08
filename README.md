@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Nothing Specific<br>👯 I’m looking to collaborate on - Anyone that needs help, I am willing to Colab with.<br>🌱 I’m currently learning - Rust<br>💬 Ask me about - Anything and I will help if I can<br><br>If you like a repo, drop that star or send a message.
+Nothing Special, Nothing To Say, Nothing To Prove.
 
 
 # 💻 Tech Stack:
